@@ -1,0 +1,15 @@
+style.css
+h1 {
+    text-align: center;
+    color: silver;
+    font-family: Ariel, helvetica, sans-serif;
+}
+p{
+    text-align: center;
+    color: silver;
+}
+body{
+    background-color:red;
+}    
+
+
